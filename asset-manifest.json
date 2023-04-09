@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dual-timer/static/css/main.1abe175c.css",
+    "main.js": "/dual-timer/static/js/main.d1e2fea7.js",
+    "static/media/beep-17.mp3": "/dual-timer/static/media/beep-17.d80d73a6f0cfd4ad18eb.mp3",
+    "index.html": "/dual-timer/index.html",
+    "main.1abe175c.css.map": "/dual-timer/static/css/main.1abe175c.css.map",
+    "main.d1e2fea7.js.map": "/dual-timer/static/js/main.d1e2fea7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1abe175c.css",
+    "static/js/main.d1e2fea7.js"
+  ]
+}
